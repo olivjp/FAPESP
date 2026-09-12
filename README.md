@@ -26,7 +26,7 @@ FAPESP/
 │   └── trained/                   # Modelos treinados (.pt, .onnx, TensorRT)
 │
 ├── notebooks/                     # Jupyter Notebooks prontos para experimentação
-│   ├── 01_treinamento_colab_yolov8.ipynb  # Treinamento em GPU no Google Colab + Roboflow + Google Drive
+│   ├── 01_treinamento_colab_yolov8.ipynb  # Treinamento em GPU no Google Colab + Roboflow 
 │   └── 02_teste_e_validacao.ipynb         # Teste interativo das etapas no VS Code
 │
 ├── src/                           # Módulos Python reutilizáveis do projeto
